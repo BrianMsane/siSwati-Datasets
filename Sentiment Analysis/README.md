@@ -9,14 +9,15 @@ In the siSwati vocabulary, it is not allowed to have two vowels following each o
 The data was annotated by two siSwati native speakers. We accounted for negative, positive and neutral sentiments. To make the actual annotation we represented negative, positive, and neutral comments which negative one, positive one, and zero, respectively.
 
 
-Description | Value
-Total number of words | 11837 |
-Total unique words | 5972 |
-Number of sentences | 1895 |
-Average Comment Length | 6 |
-Positive Sentiments | 774 |
-Negative Sentiments | 495 |
-Neutral sentiments | 626 |
+| Description              | Value |
+|--------------------------|-------|
+| Total number of words    | 11837 |
+| Total unique words       | 5972  |
+| Number of sentences      | 1895  |
+| Average Comment Length   | 6     |
+| Positive Sentiments      | 774   |
+| Negative Sentiments      | 495   |
+| Neutral sentiments       | 626   |
 
 
 The table above defines the statistics of the dataset.
