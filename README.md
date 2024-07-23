@@ -5,10 +5,10 @@ Siswati is one of the under-resourced languages housed in Africa and this projec
 It has been proven in NLP literature that some of the issues with regards to NLP and low-resource languages are heavily linked with the lack of annotated dataset, pre-trained modes, researchers working on the language, rich morphological structures on languages and polysemy among others. So with the provision of datasets, we hope to curb this ignorance for the siSwati language.
 
 We will conduct further research to provide datasets for the following natural language processing tasks:
-a. Sentiment Analysis,
-b. NER - Named entity recognition,
-c. Fill-masking,
-d. Summarization,
-e. PoS - Part-of-speech tagging,
-f. Question Answering,
-g. etc.,
+- Sentiment Analysis,
+- NER - Named entity recognition,
+- Fill-masking,
+- Summarization,
+- PoS - Part-of-speech tagging,
+- Question Answering,
+- etc.,
